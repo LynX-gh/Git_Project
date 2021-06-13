@@ -1,1 +1,3 @@
-# Git_Project
+# Version Control with Git
+
+### Final Project
